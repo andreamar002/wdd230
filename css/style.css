@@ -1,0 +1,39 @@
+body {
+    background-color: white;
+    font-family: Georgia,Times,Times New Roman,serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: Georgia,Times,Times New Roman,serif;
+    font-size: 32px;
+    padding: 1em;
+}
+
+div {
+    padding-top: 25px;
+}
+
+header {
+    display: grid;
+    grid-template-columns: auto 1fr;
+    align-items: center;
+    background-color: #c86bfa;
+    padding: 1em;
+    border-radius: 10px;
+}
+
+.image {
+    text-align: center;
+}
+
+.main-headline {
+    text-align: center;
+}
+
+main {
+    background-color: white;
+}
+
+.main-headline-2 {
+   border-bottom: 1px solid black; 
+}
