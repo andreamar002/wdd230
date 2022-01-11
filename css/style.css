@@ -24,6 +24,7 @@ header {
     background-color: #d38ff8;
     padding: 1em;
     border-radius: 10px;
+    color: white;
 }
 
 .image {
@@ -40,7 +41,7 @@ main {
 }
 
 #content {
-    max-width: 960px;
+    max-width: 600px;
     margin: 0 auto;
 }
 
@@ -55,4 +56,5 @@ footer {
     padding: 10px;
     border-radius: 10px;
     font-size: 19px;
+    color: white;
 }
