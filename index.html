@@ -31,8 +31,12 @@
       </div>
     <footer>
       &copy; | Andrea Martínez | Siguatepeque, Honduras
-      <b>document.lastModified : </b>
-      <script>document.write( document.lastModified );</script>
+      <script>
+      function myFunction() {
+        var x = document.lastModified;
+        document.getElementById("demo").innerHTML = x;
+      }
+      </script>
     </footer>
   </body>
 </html>
