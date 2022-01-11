@@ -25,6 +25,7 @@ header {
 
 .image {
     text-align: center;
+    box-shadow: black;
 }
 
 .main-headline {
@@ -42,6 +43,6 @@ main {
 footer {
     background-color: #c86bfa;
     text-align: center;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: Georgia,Times,Times New Roman,serif;
     padding: 10px;
 }
