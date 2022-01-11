@@ -14,7 +14,7 @@ div {
     align-items: center;
 }
 
-#content {
+content {
     max-width: 500;
     margin: 0 auto;
 }
