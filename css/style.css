@@ -14,8 +14,8 @@ div {
     align-items: center;
 }
 
-content {
-    max-width: 500;
+#content {
+    max-width: 500px;
     margin: 0 auto;
 }
 
@@ -51,4 +51,5 @@ footer {
     font-family: Georgia,Times,Times New Roman,serif;
     padding: 10px;
     border-radius: 10px;
+
 }
