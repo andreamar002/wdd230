@@ -11,6 +11,7 @@ h1, h2, h3, h4, h5, h6 {
 
 div {
     padding-top: 25px;
+    align-items: center;
 }
 
 header {
@@ -36,4 +37,11 @@ main {
 
 .main-headline-2 {
    border-bottom: 1px solid black; 
+}
+
+footer {
+    background-color: #c86bfa;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 10px;
 }
